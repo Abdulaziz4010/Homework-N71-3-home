@@ -35,3 +35,47 @@
 // let umumiyNarx = birKgNarxi * qanchaKg;
 
 // console.log("Umumiy narx: " + umumiyNarx + " so'm");
+
+// 5-masala
+
+// let birKgNarxi = 0.15;
+// let qanchaKg = 0.5;
+
+// let umumiyNarx = birKgNarxi * qanchaKg;
+
+// console.log("Umumiy narx: " + umumiyNarx + " so'm");
+
+// 6-masala
+
+// let birKgNarxi = 2.15;
+// let qanchaKg = 2.5;
+
+// let umumiyNarx = birKgNarxi * qanchaKg;
+
+// console.log("Umumiy narx: " + umumiyNarx + " so'm");
+
+// 7-masala
+
+// let a = 3;
+// let b = 8;
+
+// let yigindi = 0;
+// for (let i = a; i <= b; i++) {
+//   yigindi += i;
+// }
+
+// console.log(a + " dan " + b + " gacha bo'lgan sonlar yig'indisi: " + yigindi);
+
+// 8-masala
+
+// let a = 3;
+// let b = 6;
+
+// let kopaytma = 1;
+// for (let i = a; i <= b; i++) {
+//   kopaytma *= i;
+// }
+
+// console.log(
+//   a + " dan " + b + " gacha bo'lgan sonlarning ko'paytmasi: " + kopaytma
+// );
