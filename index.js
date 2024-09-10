@@ -79,3 +79,17 @@
 // console.log(
 //   a + " dan " + b + " gacha bo'lgan sonlarning ko'paytmasi: " + kopaytma
 // );
+
+// 9-masala
+
+// let a = 3;
+// let b = 6;
+
+// let kopaytma = 1;
+// for (let i = a; i <= b; i++) {
+//   kopaytma ** i;
+// }
+
+// console.log(
+//   a + " dan " + b + " gacha bo'lgan sonlarning ko'paytmasi: " + kopaytma
+// );
